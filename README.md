@@ -29,6 +29,9 @@
 
 6. Add Desperados and Helldorado to the app
 
+![BG](https://github.com/user-attachments/assets/c57ea534-12af-4e07-a13f-bade68660d1b)
+
+
 7. Enjoy the game.
 
 # For Linux there is no need for these workarounds both games work fine with Wine/Proton via Lutris/Steam
