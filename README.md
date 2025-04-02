@@ -15,7 +15,7 @@
 
 ``<Attribute name="ENGINE_RESOLUTION_X" value="1024" type="string"/>``
 
-``< Attribute name="ENGINE_RESOLUTION_Y" value="768" type="string"/>``
+``<Attribute name="ENGINE_RESOLUTION_Y" value="768" type="string"/>``
 
 # Change these attributes to: 
 
